@@ -1,0 +1,20 @@
+﻿Churn Modelling Dataset ,,
+#,Column Name,Description
+1,CreditScore,Customer's credit score. Higher = lower credit risk. 
+2,Geography,"Country of the customer: France, Spain, or Germany. Requires encoding (one-hot or ordinal)."
+3,Gender,Customer gender: Male or Female. 
+4,Age,Customer age in years.
+5,Tenure,Number of years the customer has been with the bank (0–10)
+6,Balance,Account balance in currency units. Zero is valid.
+7,NumOfProducts,"Number of bank products held (e.g. savings, loans, credit cards)."
+8,HasCrCard,"Whether customer has a credit card. 1 = Yes, 0 = No."
+9,IsActiveMember,"Whether the customer is an active member. 1 = Active, 0 = Inactive. "
+10,EstimatedSalary,Bank's estimate of the customer's annual salary. 
+11,Exited,"Whether the customer left the bank. 1 = Churned, 0 = Stayed."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
